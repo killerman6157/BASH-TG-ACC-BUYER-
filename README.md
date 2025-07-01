@@ -19,7 +19,7 @@ Wannan bot ɗin yana sauƙaƙa karɓar sabbin asusun Telegram daga masu siyarwa 
    cd <project-folder>
 
 2. Girka dependencies:
-
+   ```bash
 pip install -r requirements.txt
 
 
@@ -32,12 +32,12 @@ ADMIN_ID=6281246656
 
 
 4. Fara bot:
-
+   ```bash
 python main.py
 
 
 
-📂 Project Structure
+# 📂 Project Structure
 
 telegram_account_bot/  
 ├── main.py  
@@ -55,7 +55,7 @@ telegram_account_bot/
     ├── language_handler.py  
     └── admin_handler.py
 
-📘 Commands
+# 📘 Commands
 
 Command	Description
 
@@ -70,7 +70,7 @@ Command	Description
 
 ---
 
-❗ DISCLAIMER
+# ❗ DISCLAIMER
 
 > Wannan bot don ilimi da masu siyarwa ne kawai.
 Ba a goyon bayan amfani da asusun da ba naka ba ko karya doka.

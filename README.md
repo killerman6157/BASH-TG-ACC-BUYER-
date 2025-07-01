@@ -66,7 +66,11 @@ Command	Description
 /language	Canza harshen bot
 /admin	(Admin only) Duba stats na bot
 
+---
 
+# 👤 Developer
+
+Made with ❤️ by Bashir Rabiu
 
 ---
 

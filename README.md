@@ -20,7 +20,7 @@ Wannan bot ɗin yana sauƙaƙa karɓar sabbin asusun Telegram daga masu siyarwa 
 
 2. Girka dependencies:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 3. Tura .env a root da cikakkun bayanai:
@@ -33,7 +33,7 @@ ADMIN_ID=6281246656
 
 4. Fara bot:
    ```bash
-python main.py
+   python main.py
 
 
 
